@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Req res CURD test","This test will User from the updated record","SUCCESS","2020-05-20T12:21:07.967+01:00[Europe/London]","0.0","14.45"
+"Req res CURD test","This test will update details of an user id 10 ","SUCCESS","2020-05-20T12:21:22.499+01:00[Europe/London]","0.0","1.6"
+"Req res CURD test","This test will delete an User","SUCCESS","2020-05-20T12:21:24.098+01:00[Europe/London]","0.0","1.05"
+"Req res CURD test","Create Request","SUCCESS","2020-05-20T12:21:25.150+01:00[Europe/London]","0.0","0.3"
